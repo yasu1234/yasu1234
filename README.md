@@ -1,3 +1,5 @@
+[![yasu1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasu1234)](https://github.com/yasu1234/github-readme-stats)
+
 ## My Skill (Programming Languages, Frameworks and Tools)
 
 <!--
