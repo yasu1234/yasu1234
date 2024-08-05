@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Skill (Programming Languages, Frameworks and Tools)
 
 <!--
 **yasu1234/yasu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
