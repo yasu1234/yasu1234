@@ -1,7 +1,8 @@
 [![yasu1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasu1234)](https://github.com/yasu1234/github-readme-stats)
 
-## My Skill (Programming Languages, Frameworks and Tools)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasu1234&theme=onedark)](https://github.com/yasu1234/github-profile-trophy)
 
+## My Skill (Programming Languages, Frameworks and Tools)
 <!--
 **yasu1234/yasu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
